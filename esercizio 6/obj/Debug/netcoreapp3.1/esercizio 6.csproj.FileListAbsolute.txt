@@ -1,0 +1,13 @@
+E:\4F\esercizio 6\bin\Debug\netcoreapp3.1\esercizio 6.exe
+E:\4F\esercizio 6\bin\Debug\netcoreapp3.1\esercizio 6.deps.json
+E:\4F\esercizio 6\bin\Debug\netcoreapp3.1\esercizio 6.runtimeconfig.json
+E:\4F\esercizio 6\bin\Debug\netcoreapp3.1\esercizio 6.runtimeconfig.dev.json
+E:\4F\esercizio 6\bin\Debug\netcoreapp3.1\esercizio 6.dll
+E:\4F\esercizio 6\bin\Debug\netcoreapp3.1\esercizio 6.pdb
+E:\4F\esercizio 6\obj\Debug\netcoreapp3.1\esercizio 6.csproj.AssemblyReference.cache
+E:\4F\esercizio 6\obj\Debug\netcoreapp3.1\esercizio 6.AssemblyInfoInputs.cache
+E:\4F\esercizio 6\obj\Debug\netcoreapp3.1\esercizio 6.AssemblyInfo.cs
+E:\4F\esercizio 6\obj\Debug\netcoreapp3.1\esercizio 6.csproj.CoreCompileInputs.cache
+E:\4F\esercizio 6\obj\Debug\netcoreapp3.1\esercizio 6.dll
+E:\4F\esercizio 6\obj\Debug\netcoreapp3.1\esercizio 6.pdb
+E:\4F\esercizio 6\obj\Debug\netcoreapp3.1\esercizio 6.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+E:\4F\esercizio 5 difficile\bin\Debug\esercizio 5 difficile.exe.config
+E:\4F\esercizio 5 difficile\bin\Debug\esercizio 5 difficile.exe
+E:\4F\esercizio 5 difficile\bin\Debug\esercizio 5 difficile.pdb
+E:\4F\esercizio 5 difficile\obj\Debug\esercizio 5 difficile.csproj.AssemblyReference.cache
+E:\4F\esercizio 5 difficile\obj\Debug\esercizio 5 difficile.csproj.CoreCompileInputs.cache
+E:\4F\esercizio 5 difficile\obj\Debug\esercizio 5 difficile.exe
+E:\4F\esercizio 5 difficile\obj\Debug\esercizio 5 difficile.pdb
