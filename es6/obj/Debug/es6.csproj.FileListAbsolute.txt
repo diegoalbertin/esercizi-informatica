@@ -1,0 +1,7 @@
+E:\4F\es6\obj\Debug\es6.csproj.AssemblyReference.cache
+E:\4F\es6\obj\Debug\es6.csproj.CoreCompileInputs.cache
+E:\4F\es6\bin\Debug\es6.exe.config
+E:\4F\es6\bin\Debug\es6.exe
+E:\4F\es6\bin\Debug\es6.pdb
+E:\4F\es6\obj\Debug\es6.exe
+E:\4F\es6\obj\Debug\es6.pdb
