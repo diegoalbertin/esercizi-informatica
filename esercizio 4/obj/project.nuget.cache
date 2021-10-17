@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "V8DYSG3mf4PjiYqz197QNvlEn8hcWHS9ST3CQ5U4LLjmjNkn0SG2hLG6MSJpsawWoc9n9kbzZ3pBr0cs6VHPSg==",
+  "dgSpecHash": "CHVPFrltUaFlxb0hswGHRqDAG7WH+ITKpuDEU7xpff2Ch8gZigbcUwJ+VIBuTMa89a2noFnTPx9ZvG5tcFj7nA==",
   "success": true,
-  "projectFilePath": "E:\\4F\\esercizio 4\\esercizio 4.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\esercizi-informatica\\esercizio 4\\esercizio 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
   "logs": []
 }
