@@ -5,3 +5,10 @@ E:\4F\es6\bin\Debug\es6.exe
 E:\4F\es6\bin\Debug\es6.pdb
 E:\4F\es6\obj\Debug\es6.exe
 E:\4F\es6\obj\Debug\es6.pdb
+C:\Users\Asus\Desktop\esercizi-informatica\es6\bin\Debug\es6.exe.config
+C:\Users\Asus\Desktop\esercizi-informatica\es6\bin\Debug\es6.exe
+C:\Users\Asus\Desktop\esercizi-informatica\es6\bin\Debug\es6.pdb
+C:\Users\Asus\Desktop\esercizi-informatica\es6\obj\Debug\es6.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\esercizi-informatica\es6\obj\Debug\es6.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\esercizi-informatica\es6\obj\Debug\es6.exe
+C:\Users\Asus\Desktop\esercizi-informatica\es6\obj\Debug\es6.pdb

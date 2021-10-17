@@ -11,3 +11,16 @@ C:\Users\Studente\Source\Repos\esercio 5\obj\Debug\netcoreapp3.1\esercio 5.cspro
 C:\Users\Studente\Source\Repos\esercio 5\obj\Debug\netcoreapp3.1\esercio 5.dll
 C:\Users\Studente\Source\Repos\esercio 5\obj\Debug\netcoreapp3.1\esercio 5.pdb
 C:\Users\Studente\Source\Repos\esercio 5\obj\Debug\netcoreapp3.1\esercio 5.genruntimeconfig.cache
+C:\Users\Asus\Desktop\esercizi-informatica\esercizio 5\bin\Debug\netcoreapp3.1\esercio 5.exe
+C:\Users\Asus\Desktop\esercizi-informatica\esercizio 5\bin\Debug\netcoreapp3.1\esercio 5.deps.json
+C:\Users\Asus\Desktop\esercizi-informatica\esercizio 5\bin\Debug\netcoreapp3.1\esercio 5.runtimeconfig.json
+C:\Users\Asus\Desktop\esercizi-informatica\esercizio 5\bin\Debug\netcoreapp3.1\esercio 5.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\esercizi-informatica\esercizio 5\bin\Debug\netcoreapp3.1\esercio 5.dll
+C:\Users\Asus\Desktop\esercizi-informatica\esercizio 5\bin\Debug\netcoreapp3.1\esercio 5.pdb
+C:\Users\Asus\Desktop\esercizi-informatica\esercizio 5\obj\Debug\netcoreapp3.1\esercio 5.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\esercizi-informatica\esercizio 5\obj\Debug\netcoreapp3.1\esercio 5.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\esercizi-informatica\esercizio 5\obj\Debug\netcoreapp3.1\esercio 5.AssemblyInfo.cs
+C:\Users\Asus\Desktop\esercizi-informatica\esercizio 5\obj\Debug\netcoreapp3.1\esercio 5.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\esercizi-informatica\esercizio 5\obj\Debug\netcoreapp3.1\esercio 5.dll
+C:\Users\Asus\Desktop\esercizi-informatica\esercizio 5\obj\Debug\netcoreapp3.1\esercio 5.pdb
+C:\Users\Asus\Desktop\esercizi-informatica\esercizio 5\obj\Debug\netcoreapp3.1\esercio 5.genruntimeconfig.cache
